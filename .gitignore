@@ -1,0 +1,12 @@
+node_modules/
+.idea
+.vscode
+.env
+logs.log
+!/routes/
+!/controllers/
+!/middlewares/
+!/models/
+!/routes/api/
+!/services/
+!/utils/email/
